@@ -1,7 +1,12 @@
-1.创建项目文件夹 2.新建 src 文件夹，test 文件夹
+1.创建项目文件夹
+
+2.新建 src 文件夹，test 文件夹
+
 3.npm 安装依赖
 npm i -D jest typescript
-npm i -D ts-jest @types/jest 4.初始化配置
+npm i -D ts-jest @types/jest
+
+4.初始化配置
 npx ts-jest config:init
 也可以直接拷贝 jest.config.js
 
@@ -30,3 +35,5 @@ npm install -g tslint 2.初始化配置
 tslint --init
 建议使用推荐配置，请参见：tslint.json 3.此处所有的代码将被编译成 ES6 版本的 JavaScript，如果需要兼容 ESC2015+之前的 JavaScript 版本，请使用 Babel 工具链
 Babel 是一个工具链，主要用于将 ECMAScript 2015+ 版本的代码转换为向后兼容的 JavaScript 语法
+
+2019-11-21 TZY
