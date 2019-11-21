@@ -36,4 +36,4 @@ tslint --init
 建议使用推荐配置，请参见：tslint.json 3.此处所有的代码将被编译成 ES6 版本的 JavaScript，如果需要兼容 ESC2015+之前的 JavaScript 版本，请使用 Babel 工具链
 Babel 是一个工具链，主要用于将 ECMAScript 2015+ 版本的代码转换为向后兼容的 JavaScript 语法
 
-2019-11-21 TZY
+2019-11-21 TZY-1
